@@ -1,0 +1,14 @@
+# No external dependencies required
+# This project uses only Python standard library modules:
+# - tkinter (GUI framework)
+# - random (computer choice generation)
+# - json (statistics persistence)
+# - os (file operations)
+# - enum (choice enumeration)
+# - dataclasses (statistics data structure)
+# - typing (type hints)
+
+# For development (optional):
+# pytest>=6.0.0  # For unit testing
+# black>=21.0.0   # Code formatting
+# flake8>=3.8.0   # Code linting
