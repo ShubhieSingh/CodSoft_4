@@ -60,6 +60,22 @@
 
 </details>
 
+## Screenshots
+
+<div align="center">
+
+### Initial Game State
+*Fresh application startup with clean interface*
+
+![Initial Game State](https://github.com/ShubhieSingh/CodSoft_4/blob/a6c9f614365a803de9d13ce57737c6bb4ddb9934/screenshots/Screenshot%202025-07-19%20225757.png)
+
+### Gameplay in Action
+*Game interface after user interaction showing results and statistics*
+
+![Gameplay Screenshot](https://github.com/ShubhieSingh/CodSoft_4/blob/a6c9f614365a803de9d13ce57737c6bb4ddb9934/screenshots/Screenshot%202025-07-19%20225816.png)
+
+</div>
+
 ## Quick Start
 
 ### Prerequisites
@@ -143,7 +159,10 @@ CodSoft_4/
 ├── README.md                  # Project documentation  
 ├── requirements.txt           # Python dependencies (minimal)
 ├── game_stats.json           # Generated: Persistent game statistics
-└── LICENSE                   # MIT License
+├── LICENSE                   # MIT License
+└── screenshots/              # UI Screenshots
+    ├── initial-state.png     # Fresh application startup
+    └── gameplay-action.png   # Game after user interaction
 ```
 
 ### Key Files
@@ -154,6 +173,7 @@ CodSoft_4/
 | `game_stats.json` | **Statistics** | Auto-generated player statistics |
 | `README.md` | **Documentation** | This comprehensive guide |
 | `requirements.txt` | **Dependencies** | Python package requirements |
+| `screenshots/` | **UI Screenshots** | Visual demonstration of the application |
 
 ## Technical Details
 
